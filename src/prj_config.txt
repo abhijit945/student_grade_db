@@ -1,0 +1,3 @@
+initial 5
+edges 2
+nodes 7
